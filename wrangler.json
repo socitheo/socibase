@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "socibase",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "561c1c28-8cbd-4de7-b8db-6836ab6f9f62",
+			"database_name": "socibase"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
